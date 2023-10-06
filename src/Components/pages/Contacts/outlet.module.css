@@ -1,0 +1,73 @@
+.rod {
+    display: flex;
+    justify-content: center;
+    margin-left: 251px;
+    margin-top: 32px;
+}
+.icon {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin-left: 24px;
+}
+.icon p {
+    font-size: 16px;
+   
+    margin-left: 12px;
+}
+.icon img {
+    width: 20px;
+    height: 20px;
+}
+.oneCard {
+    box-shadow: 0 1px 1px;
+    margin-right: 30px;
+    margin-bottom: 48px;
+    border-radius: 4px;
+}
+.oneCard h3 {
+    margin-left: 24px;
+}
+.cards {
+    width: 900px;
+    display: flex;
+    flex-wrap: wrap;
+   
+   
+}
+.route {
+    display: flex;
+    flex-direction: column;
+    margin-top: 32px;
+    margin-left: 100px;
+}
+.contact {
+    font-size: 28px;
+    color: #9A9CA5;
+    margin-bottom: 10px;
+    height: 42px;
+    
+}
+.outlet {
+    font-size: 28px;
+    color: #17696A;
+    margin-bottom: 10px;
+    height: 42px;
+}
+.faq {
+    font-size: 28px;
+    color: #9A9CA5;
+    height: 42px;
+}
+.faq h3 {
+    margin: 0;
+}
+.outlet h3 {
+    margin: 0;
+}
+.contact h3 {
+    margin: 0;
+}
+.glav {
+    display: flex;
+}
